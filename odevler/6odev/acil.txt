@@ -1,0 +1,15 @@
+Acil servis (Ambulanse): 112
+Yangin: 110
+Alo Trafik: 154
+Polis imdat: 155
+Elektrik Ariza: 186
+Gaz Ariza: 187
+Jandarma imdat: 156
+Telefon Ariza: 121
+Alo Doktor: 113
+Alo Zabita: 153
+Tuketici Hatti: 175
+orman Yangini: 177
+Saglik Danisma: 184
+Kablo Ariza: 126
+Bilinmeyen Numaralar: 118
